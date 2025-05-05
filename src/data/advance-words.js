@@ -19,6 +19,10 @@ const words = [
   { normal: "Dirty", advance: "Filthy" },
   { normal: "Funny", advance: "Hilarious" },
   { normal: "Scared", advance: "Terrified" },
+  { normal: "Drinks", advance: "Beverages" },
+  { normal: "Food", advance: "Cusine" },
+  { normal: "Socializing", advance: "Networking" },
+  { normal: "Friends", advance: "Companions" },
 ];
 
 export default words;

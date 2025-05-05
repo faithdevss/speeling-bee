@@ -9,6 +9,10 @@ const worlds = {
       banglish: "ডায়রী",
     },
     {
+      english: "jeans",
+      banglish: "জিন্স",
+    },
+    {
       english: "Siege",
       banglish: "সিজ",
     },
@@ -87,6 +91,10 @@ const worlds = {
       banglish: "অ্যামেচার",
     },
     {
+      english: "leather",
+      banglish: "লেদার",
+    },
+    {
       english: "Anxiety",
       banglish: "অ্যাংজাইটি",
     },
@@ -107,12 +115,8 @@ const worlds = {
       banglish: "ফরফিট",
     },
     {
-      english: "Fulfill",
-      banglish: "ফুলফিল",
-    },
-    {
-      english: "Helmet",
-      banglish: "হেলমেট",
+      english: "breathe",
+      banglish: "ব্রেথ",
     },
     {
       english: "License",
@@ -151,23 +155,23 @@ const worlds = {
       banglish: "ভিলেন",
     },
     {
-      english: "Across",
-      banglish: "অ্যাক্রস",
-    },
-    {
-      english: "Dilemma",
+      english: "dilemma",
       banglish: "ডিলেমা",
     },
     {
-      english: "Harass",
+      english: "garage",
+      banglish: "গ্যারাজ",
+    },
+    {
+      english: "harass",
       banglish: "হ্যারাস",
     },
     {
-      english: "Liaison",
+      english: "liaison",
       banglish: "লিয়াজঁ",
     },
     {
-      english: "Tyranny",
+      english: "tyranny",
       banglish: "টিরানি",
     },
     {
@@ -211,10 +215,6 @@ const worlds = {
       banglish: "ফরেন",
     },
     {
-      english: "genius",
-      banglish: "জিনিয়াস",
-    },
-    {
       english: "jealous",
       banglish: "জেলাস",
     },
@@ -223,21 +223,12 @@ const worlds = {
       banglish: "মাসল",
     },
     {
-      english: "ninety",
-      banglish: "নাইনটি",
-    },
-    {
-      english: "opinion",
-      banglish: "অপিনিয়ন",
-    },
-
-    {
       english: "quizzes",
       banglish: "কুইজেস",
     },
     {
-      english: "realize",
-      banglish: "রিয়ালাইজ",
+      english: "conceive",
+      banglish: "কন্সিভ",
     },
     {
       english: "receipt",
@@ -268,10 +259,6 @@ const worlds = {
     {
       english: "Adventure",
       banglish: "অ্যাডভেঞ্চার",
-    },
-    {
-      english: "Allotted",
-      banglish: "অ্যালটেড",
     },
     {
       english: "Apparent",
@@ -352,10 +339,6 @@ const worlds = {
     {
       english: "Disappear",
       banglish: "ডিজঅ্যাপিয়ার",
-    },
-    {
-      english: "Dizziness",
-      banglish: "ডিজিনেস",
     },
     {
       english: "Eligible",
@@ -850,6 +833,10 @@ const worlds = {
       banglish: "সাইকোলজি",
     },
     {
+      english: "cumulative",
+      banglish: "কিউমোল্টিভ",
+    },
+    {
       english: "psychological",
       banglish: "সাইকোলজিক্যাল",
     },
@@ -866,14 +853,6 @@ const worlds = {
       banglish: "রেকগনাইজ",
     },
     {
-      english: "representative",
-      banglish: "রেপ্রেজেন্টেটিভ",
-    },
-    {
-      english: "schedule",
-      banglish: "শেডিউল",
-    },
-    {
       english: "surprise",
       banglish: "সারপ্রাইজ",
     },
@@ -884,6 +863,18 @@ const worlds = {
     {
       english: "undoubtedly",
       banglish: "আনডাউটেডলি",
+    },
+    {
+      english: "chronology",
+      banglish: "ক্রনোলজি",
+    },
+    {
+      english: "anonymous",
+      banglish: "এনোনিমাস",
+    },
+    {
+      english: "pollution",
+      banglish: "পলুশন",
     },
     {
       english: "unforgettable",
