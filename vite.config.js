@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: `/speeling-bee/`,
   server: {
-    port: 80,
+    port: 3000,
     strictPort: true,
   },
   build: {

@@ -3,6 +3,8 @@ import React, { useState, useCallback } from "react";
 import SpellingBee from "./pages/spelling-bee";
 import AdvanceBee from "./pages/advance-bee";
 
+import LearnBee from "./pages/learn-bee";
+
 import _style from "./_style.module.css";
 
 function App() {
@@ -19,6 +21,7 @@ function App() {
       ) : (
         <AdvanceBee toggleView={handleToggle} />
       )}
+      <LearnBee />
     </div>
   );
 }
