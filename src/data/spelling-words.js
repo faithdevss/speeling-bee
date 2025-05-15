@@ -13,20 +13,8 @@ const worlds = {
       banglish: "উইয়ার্ড",
     },
     {
-      english: "Yield",
-      banglish: "ইয়িল্ড",
-    },
-    {
       english: "Siege",
       banglish: "সিজ",
-    },
-    {
-      english: "piece",
-      banglish: "পিস",
-    },
-    {
-      english: "until",
-      banglish: "আনটিল",
     },
     {
       english: "yacht",
@@ -34,10 +22,6 @@ const worlds = {
     },
   ],
   medium: [
-    {
-      english: "Allege",
-      banglish: "অ্যালেজ",
-    },
     {
       english: "Amateur",
       banglish: "অ্যামেচার",
@@ -91,10 +75,6 @@ const worlds = {
       banglish: "ভ্যাকিউম",
     },
     {
-      english: "Villain",
-      banglish: "ভিলেন",
-    },
-    {
       english: "dilemma",
       banglish: "ডিলেমা",
     },
@@ -113,10 +93,6 @@ const worlds = {
     {
       english: "tyranny",
       banglish: "টিরানি",
-    },
-    {
-      english: "Vacuum",
-      banglish: "ভ্যাকিউম",
     },
     {
       english: "Zealous",
@@ -249,10 +225,6 @@ const worlds = {
       banglish: "এক্স্যাজারেট",
     },
     {
-      english: "Existence",
-      banglish: "এক্সিস্টেন্স",
-    },
-    {
       english: "Fascinating",
       banglish: "ফ্যাসিনেটিং",
     },
@@ -321,10 +293,6 @@ const worlds = {
       banglish: "প্রিভিলেজ",
     },
     {
-      english: "Questionnaire",
-      banglish: "কোয়েশ্চনেয়ার",
-    },
-    {
       english: "Relevant",
       banglish: "রেলেভেন্ট",
     },
@@ -335,10 +303,6 @@ const worlds = {
     {
       english: "Sacrilegious",
       banglish: "স্যাক্রিলিজিয়াস",
-    },
-    {
-      english: "Secretary",
-      banglish: "সেক্রেটারি",
     },
     {
       english: "Sergeant",
@@ -401,14 +365,6 @@ const worlds = {
       banglish: "প্রেজুডিস",
     },
     {
-      english: "Privilege",
-      banglish: "প্রিভিলেজ",
-    },
-    {
-      english: "Pronunciation",
-      banglish: "প্রানানসিয়েশন",
-    },
-    {
       english: "Questionnaire",
       banglish: "কোয়েশ্চনেয়ার",
     },
@@ -419,10 +375,6 @@ const worlds = {
     {
       english: "Separate",
       banglish: "সেপারেট",
-    },
-    {
-      english: "Sergeant",
-      banglish: "সার্জেন্ট",
     },
     {
       english: "accessible",
