@@ -9,5 +9,5 @@ export const getPaginatedResponse = () => {
   //   (currentPage - 1) * itemsPerPage,
   //   currentPage * itemsPerPage
   // );
-  return allEnglishWords;
+  return allEnglishWords.sort();
 };
